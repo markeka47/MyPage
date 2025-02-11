@@ -4,3 +4,47 @@
   margin: 0;
   padding: 0;
 }
+
+.menu_opcoes {
+  background-color: #3674B5;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 3.5rem;
+}
+
+.cabecalho_texto {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: white;
+  text-decoration: none;
+}
+
+.apresentacao {
+  background-color: #A1E3F9;
+}
+
+.apresentacao_itens {
+  display: flex;
+  flex-direction: row;
+}
+
+.rodape_texto {
+  background-color: #578FCA;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.img_page {
+  width: 50rem;
+}
+
+.by_ms {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
