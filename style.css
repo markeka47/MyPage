@@ -48,12 +48,14 @@ a:hover {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  align-items: center;
 }
 
 .titulo_texto {
   font-family: 'Krona one', sans-serif;
   font-weight: 600;
   font-size: 2rem;
+  line-height: 3rem;
 }
 
 .redes_sociais_texto {
