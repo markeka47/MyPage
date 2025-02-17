@@ -18,6 +18,7 @@
   width: 20rem;
   height: 1.5rem;
   border: .1rem solid;
+  border-radius: .4rem;
   padding: 0.15rem;
   box-shadow: .2rem .1rem;
   display: flex;
@@ -39,6 +40,10 @@ a:hover {
   background-color: #3674B5;
 }
 
+span:hover {
+  color: white;
+}
+
 .apresentacao {
   background-color: #A1E3F9;
   padding: 2rem;
@@ -54,7 +59,7 @@ a:hover {
 .titulo_texto {
   font-family: 'Krona one', sans-serif;
   font-weight: 600;
-  font-size: 2rem;
+  font-size: 2.5rem;
   line-height: 3rem;
 }
 
